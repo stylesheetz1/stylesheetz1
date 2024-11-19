@@ -1,0 +1,6 @@
+body,
+omni-chat,
+omni-chat .chatApp main,
+omni-chat .chat-body {
+    background-color: #f9fafb00;
+}
